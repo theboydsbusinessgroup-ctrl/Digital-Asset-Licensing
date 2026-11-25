@@ -25,7 +25,7 @@ The portfolio is now ranked by earliest credible path to first cash, not theoret
 
 ### Phase 1 — First-cash MVP (Days 1–7)
 - Identify 3–5 narrow commercial niches with observable buyer intent.
-- Produce 20–30 high-utility micro-assets.
+- Finish and verify one high-utility asset for the first listing. Produce adjacent assets only after the first listing is live and buyer evidence justifies expansion.
 - Favor calculators, operational tools, checklists, and business-use systems over generic content.
 - Generate listings, previews, metadata, license terms and delivery packages.
 - Publish through viable zero-upfront channels.
